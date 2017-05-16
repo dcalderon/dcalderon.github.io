@@ -10,6 +10,9 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 
 + **Inferring Relevant Cell Types For Complex Traits Using Single-Cell Gene Expression**
+
    Calderon D., Bhaskar A., Knowles D., Golan D., Raj T., Fu A., Pritchard J.
+
    in review
+
    [[bioRxiv]](http://biorxiv.org/content/early/2017/05/10/136283)[[software: rolypoly]](https://cran.r-project.org/package=rolypoly)
