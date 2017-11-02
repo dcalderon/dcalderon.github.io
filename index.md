@@ -15,4 +15,4 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
    in press
 
-   [[AJHG](https://authors.elsevier.com/a/1V~lWgeWmbdg)][pdf](1-s2.0-S0002929717303786-main.pdf)[[software: rolypoly](https://cran.r-project.org/package=rolypoly)]
+   [[AJHG](https://authors.elsevier.com/a/1V~lWgeWmbdg)][[pdf](1-s2.0-S0002929717303786-main.pdf)][[software: rolypoly](https://cran.r-project.org/package=rolypoly)]
