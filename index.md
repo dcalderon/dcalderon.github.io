@@ -10,8 +10,7 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 
 + **Impact of regulatory variation across human iPSCs and differentiated cells**
-
-   Banovich, Nicholas E., Yang I. Li, Anil Raj, Michelle C. Ward, Peyton Greenside, Diego Calderon, Po Yuan Tung et al.
+   Banovich, Nicholas E., Yang I. Li, Anil Raj, Michelle C. Ward, Peyton Greenside, **Diego Calderon**, Po Yuan Tung et al.
 
    Published in Genome Research
 
@@ -20,7 +19,7 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 + **Inferring Relevant Cell Types for Complex Traits by Using Single-Cell Gene Expression**
 
-   Calderon, Diego, Anand Bhaskar, David A. Knowles, David Golan, Towfique Raj, Audrey Q. Fu, and Jonathan K. Pritchard
+   **Calderon, Diego**, Anand Bhaskar, David A. Knowles, David Golan, Towfique Raj, Audrey Q. Fu, and Jonathan K. Pritchard
 
    Published in American Journal of Human Genetics
 
