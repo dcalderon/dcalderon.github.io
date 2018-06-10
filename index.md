@@ -10,6 +10,7 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 
 + **Impact of regulatory variation across human iPSCs and differentiated cells**
+
    Banovich, Nicholas E., Yang I. Li, Anil Raj, Michelle C. Ward, Peyton Greenside, **Diego Calderon**, Po Yuan Tung et al.
 
    Published in Genome Research
