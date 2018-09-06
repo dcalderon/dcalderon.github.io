@@ -8,6 +8,8 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 ## Journal Publications
 
++ andscape of stimulation-responsive chromatin across diverse human immune cells. **Calderon, Diego**, Michelle L.T. Nguyen, Anja Mezger, Arwa Kathiria, Vinh Nguyen, Ninnia Lescano, Beijing Wu, John Trombetta, Jessica V. Ribado, David A. Knowles, Ziyue Gao, Audrey V. Parent, Trevor D. Burt, Mark S. Anderson, Lindsey A. Criswell, William J. Greenleaf, Alexander Marson, Jonathan K. Pritchard. Available on bioRxiv. [[bioRxiv](https://www.biorxiv.org/content/early/2018/09/05/409722)]
+
 + Impact of regulatory variation across human iPSCs and differentiated cells. Banovich, Nicholas E., Yang I. Li, Anil Raj, Michelle C. Ward, Peyton Greenside, **Diego Calderon**, Po Yuan Tung et al. Published in Genome Research. [[NCBI](https://www.ncbi.nlm.nih.gov/pubmed/29208628)]
 
 
