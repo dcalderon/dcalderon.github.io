@@ -1,6 +1,6 @@
 ## About
 
-I am currently a postdoctoral researcher working with Cole Trapnell and Jay Shendure at University of Washington. Before that I received my Ph.D. from Stanford University where I studied complex traits in the lab of Jonathan Pritchard. With my free time I like to dabble in watercolors and go hiking.
+I am a postdoctoral researcher working with Cole Trapnell and Jay Shendure at University of Washington. Before that I received my Ph.D. from Stanford University where I studied complex traits in the lab of Jonathan Pritchard. With my free time I like to dabble in watercolors and go hiking.
 
 ## Research Interests
 
