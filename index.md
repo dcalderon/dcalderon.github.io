@@ -8,7 +8,7 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 ## Journal Publications
 
-+ Landscape of stimulation-responsive chromatin across diverse human immune cells. **Calderon, Diego**, Michelle L.T. Nguyen, Anja Mezger, Arwa Kathiria, Fabian Müller, Vinh Nguyen, Ninnia Lescano, Beijing Wu, John Trombetta, Jessica V. Ribado, David A. Knowles, Ziyue Gao, Franziska Blaeschke, Audrey V. Parent, Trevor D. Burt, Mark S. Anderson, Lindsey A. Criswell, William J. Greenleaf, Alexander Marson, Jonathan K. Pritchard. Published in Nature Genetics. [[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/31570894)[[Journal site]](https://www.nature.com/articles/s41588-019-0505-9)[[pdf]](s41588-019-0505-9.pdf)
++ Landscape of stimulation-responsive chromatin across diverse human immune cells. **Calderon, Diego**, Michelle L.T. Nguyen, Anja Mezger, Arwa Kathiria, Fabian Müller, Vinh Nguyen, Ninnia Lescano, Beijing Wu, John Trombetta, Jessica V. Ribado, David A. Knowles, Ziyue Gao, Franziska Blaeschke, Audrey V. Parent, Trevor D. Burt, Mark S. Anderson, Lindsey A. Criswell, William J. Greenleaf, Alexander Marson, Jonathan K. Pritchard. Published in Nature Genetics. [[NCBI]](https://www.ncbi.nlm.nih.gov/pubmed/31570894)[[pdf]](nihms-1538431.pdf)[[Journal site]](https://www.nature.com/articles/s41588-019-0505-9)
 
 + Impact of regulatory variation across human iPSCs and differentiated cells. Banovich, Nicholas E., Yang I. Li, Anil Raj, Michelle C. Ward, Peyton Greenside, **Diego Calderon**, Po Yuan Tung et al. Published in Genome Research. [[NCBI](https://www.ncbi.nlm.nih.gov/pubmed/29208628)]
 
