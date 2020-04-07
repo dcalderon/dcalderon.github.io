@@ -8,7 +8,7 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 ## Journal Publications
 
-+ Ancient Rome: A genetic crossroads of Europe and the Mediterranean. Antonio ML, Gao Z, Moots HM, Lucci M, Candilio F, Sawyer S, Oberreiter V, **Calderon D**, Devitofranceschi K, Aikens RC, Aneli S. Published in Science. [[NCBI](https://www.ncbi.nlm.nih.gov/pubmed/31699931)][[Journal site](https://science.sciencemag.org/content/366/6466/708.full)]
++ Ancient Rome: A genetic crossroads of Europe and the Mediterranean. Antonio ML, Gao Z, Moots HM, Lucci M, Candilio F, Sawyer S, Oberreiter V, **Calderon D**, Devitofranceschi K, Aikens RC, Aneli S, et al. Published in Science. [[NCBI](https://www.ncbi.nlm.nih.gov/pubmed/31699931)][[Journal site](https://science.sciencemag.org/content/366/6466/708.full)]
 
 + Landscape of stimulation-responsive chromatin across diverse human immune cells. **Calderon, Diego**, Michelle L.T. Nguyen, Anja Mezger, Arwa Kathiria, Fabian Müller, Vinh Nguyen, Ninnia Lescano, Beijing Wu, John Trombetta, Jessica V. Ribado, David A. Knowles, Ziyue Gao, Franziska Blaeschke, Audrey V. Parent, Trevor D. Burt, Mark S. Anderson, Lindsey A. Criswell, William J. Greenleaf, Alexander Marson, Jonathan K. Pritchard. Published in Nature Genetics. [[NCBI](https://www.ncbi.nlm.nih.gov/pubmed/31570894)][[Journal site](https://www.nature.com/articles/s41588-019-0505-9)][[pdf](nihms-1538431.pdf)]
 
