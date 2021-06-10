@@ -10,7 +10,7 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 + *Trans*MPRA: A framework for assaying the role of many *trans*-acting factors at many enhancers. **Calderon, Diego**, Andria Ellis, Riza M. Daza, Beth Martin, Jacob M. Tome, Wei Chen, Florence M. Chardon, Anh Leith, Choli Lee, Beth Martin, Cole Trapnell, Jay Shendure. BioRxiv. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.30.321323v1)][[pdf](2020.09.30.321323v1.full.pdf)]
 
-+ *Trans*MPRA: A framework for assaying the role of many *trans*-acting factors at many enhancers. Qiu, Chengxiang, Junyue Cao, Tony Li, Sanjay Srivatsan, Xingfan Huang, **Diego Calderon**, William Stafford Noble, Christine M. Disteche, Malte Spielmann, Cecilia B. Moens, Cole Trapnell, Jay Shendure. BioRxiv. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.08.447626v1)][[pdf](2021.06.08.447626v1.full.pdf)]
++ Systematic reconstruction of the cellular trajectories of mammalian embryogenesis. Qiu, Chengxiang, Junyue Cao, Tony Li, Sanjay Srivatsan, Xingfan Huang, **Diego Calderon**, William Stafford Noble, Christine M. Disteche, Malte Spielmann, Cecilia B. Moens, Cole Trapnell, Jay Shendure. BioRxiv. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.08.447626v1)][[pdf](2021.06.08.447626v1.full.pdf)]
 
 ## Journal Publications
 
