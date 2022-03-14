@@ -12,7 +12,7 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 ## Journal Publications
 
-+ Systematic reconstruction of the cellular trajectories of mammalian embryogenesis. Qiu, Chengxiang, Junyue Cao, Beth K. Martin, Tony Li, Ian Walsh, Sanjay Srivatsan, Xingfan Huang, **Diego Calderon**, William Stafford Noble, Christine M. Disteche, Stephen A. Murray, Malte Spielmann, Cecilia B. Moens, Cole Trapnell, Jay Shendure. Published in Nature Genetics. [[Journal Site](https://www.nature.com/articles/s41588-022-01018-x)][[pdf](s41588-022-01018-x.pdf)]
++ Systematic reconstruction of cellular trajectories across mouse embryogenesis. Qiu, Chengxiang, Junyue Cao, Beth K. Martin, Tony Li, Ian Walsh, Sanjay Srivatsan, Xingfan Huang, **Diego Calderon**, William Stafford Noble, Christine M. Disteche, Stephen A. Murray, Malte Spielmann, Cecilia B. Moens, Cole Trapnell, Jay Shendure. Published in Nature Genetics. [[Journal Site](https://www.nature.com/articles/s41588-022-01018-x)][[pdf](s41588-022-01018-x.pdf)]
 
 + Ancient Rome: A genetic crossroads of Europe and the Mediterranean. Antonio ML, Gao Z, Moots HM, Lucci M, Candilio F, Sawyer S, Oberreiter V, **Calderon D**, Devitofranceschi K, Aikens RC, Aneli S, et al. Published in Science. [[NCBI](https://www.ncbi.nlm.nih.gov/pubmed/31699931)][[Journal site](https://science.sciencemag.org/content/366/6466/708.full)]
 
