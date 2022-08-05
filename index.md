@@ -12,7 +12,7 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 ## Journal Publications
 
-+ The continuum of Drosophila embryonic development at single-cell resolution. **Diego Calderon**\*, Ronnie Blecher-Gonen\*, Xingfan Huang\*, Stefano Secchia\*, James Kentro, Riza M. Daza, Beth Martin, Alessandro Dulja, Christoph Schaub, Cole Trapnell, Erica Larschan, Kate M. O’Connor-Giles, Eileen E. M. Furlong, Jay Shendure. Published in Science. [[Journal Site](https://www.science.org/doi/10.1126/science.abn5800)]
++ The continuum of Drosophila embryonic development at single-cell resolution. **Diego Calderon**\*, Ronnie Blecher-Gonen\*, Xingfan Huang\*, Stefano Secchia\*, James Kentro, Riza M. Daza, Beth Martin, Alessandro Dulja, Christoph Schaub, Cole Trapnell, Erica Larschan, Kate M. O’Connor-Giles, Eileen E. M. Furlong, Jay Shendure. Published in Science. [[Journal Site](https://www.science.org/doi/10.1126/science.abn5800)][[pdf](science.abn5800.pdf)]
 
 + Systematic reconstruction of cellular trajectories across mouse embryogenesis. Qiu, Chengxiang, Junyue Cao, Beth K. Martin, Tony Li, Ian Walsh, Sanjay Srivatsan, Xingfan Huang, **Diego Calderon**, William Stafford Noble, Christine M. Disteche, Stephen A. Murray, Malte Spielmann, Cecilia B. Moens, Cole Trapnell, Jay Shendure. Published in Nature Genetics. [[Journal Site](https://www.nature.com/articles/s41588-022-01018-x)][[pdf](s41588-022-01018-x.pdf)]
 
