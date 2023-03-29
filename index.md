@@ -25,7 +25,7 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 ## Preprints
 
-+ Multiplex, single-cell CRISPRa screening for cell type specific regulatory elements. Chardon, Florence M.\*, Troy A. McDiarmid\*, Nicholas F. Page, Beth K. Martin, Silvia Domcke, Samuel G. Regalado, Jean-Benoit Lalanne, **Diego Calderon**, Lea M. Starita, Stephan J. Sanders, Nadav Ahituv, Jay Shendure. BioRxiv. [[bioRiv](https://www.biorxiv.org/content/10.1101/2023.03.28.534017v1)][[pdf](2023.03.28.534017v1.full.pdf)]
++ Multiplex, single-cell CRISPRa screening for cell type specific regulatory elements. Chardon, Florence M.\*, Troy A. McDiarmid\*, Nicholas F. Page, Beth K. Martin, Silvia Domcke, Samuel G. Regalado, Jean-Benoît Lalanne, **Diego Calderon**, Lea M. Starita, Stephan J. Sanders, Nadav Ahituv, Jay Shendure. BioRxiv. [[bioRiv](https://www.biorxiv.org/content/10.1101/2023.03.28.534017v1)][[pdf](2023.03.28.534017v1.full.pdf)]
 
 + Multiplex profiling of developmental enhancers with quantitative, single-cell expression reporters. Lalanne, Jean-Benoît\*, Samuel G. Regalado\*, Silvia Domcke, **Diego Calderon**, Beth Martin, Tony Li, Chase C. Suiter, Choli Lee, Cole Trapnell, Jay Shendure. BioRxiv. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.12.10.519236v1)][[pdf](2022.12.10.519236v1.full.pdf)]
 
