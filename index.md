@@ -8,7 +8,7 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 ## Preprints & Journal Publications
 
-+ Chromatin context-dependent regulation and epigenetic manipulation of prime editing. Xiaoyi Li, Wei Chen, Beth K Martin,  **Diego Calderon**, Choli Lee, Junhong Choi, Florence M Chardon, Troy McDiarmid, Haedong Kim,  View ORCID ProfileJean-Benoit Lalanne, Jenny F Nathans, Jay Shendure. BioRxiv. [[bioRiv](https://www.biorxiv.org/content/10.1101/2023.04.12.536587v1)][[pdf](2023.04.12.536587v1.full.pdf)]
++ Chromatin context-dependent regulation and epigenetic manipulation of prime editing. Li, Xiaoyi, Wei Chen, Beth K Martin,  **Diego Calderon**, Choli Lee, Junhong Choi, Florence M Chardon, Troy McDiarmid, Haedong Kim, Jean-Benoît Lalanne, Jenny F Nathans, Jay Shendure. BioRxiv. [[bioRiv](https://www.biorxiv.org/content/10.1101/2023.04.12.536587v1)][[pdf](2023.04.12.536587v1.full.pdf)]
 
 + Multiplex, single-cell CRISPRa screening for cell type specific regulatory elements. Chardon, Florence M.\*, Troy A. McDiarmid\*, Nicholas F. Page, Beth K. Martin, Silvia Domcke, Samuel G. Regalado, Jean-Benoît Lalanne, **Diego Calderon**, Lea M. Starita, Stephan J. Sanders, Nadav Ahituv, Jay Shendure. BioRxiv. [[bioRiv](https://www.biorxiv.org/content/10.1101/2023.03.28.534017v1)][[pdf](2023.03.28.534017v1.full.pdf)]
 
