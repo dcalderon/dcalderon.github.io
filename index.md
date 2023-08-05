@@ -8,7 +8,9 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 ## Preprints & Journal Publications
 
-+ Chromatin context-dependent regulation and epigenetic manipulation of prime editing. Li, Xiaoyi, Wei Chen, Beth K Martin,  **Diego Calderon**, Choli Lee, Junhong Choi, Florence M Chardon, Troy McDiarmid, Haedong Kim, Jean-Benoît Lalanne, Jenny F Nathans, Jay Shendure. BioRxiv. [[bioRiv](https://www.biorxiv.org/content/10.1101/2023.04.12.536587v1)][[pdf](2023.04.12.536587v1.full.pdf)]
++ A multiplex, prime editing framework for identifying drug resistance variants at scale. Florence M. Chardon, Chase C. Suiter, Riza M. Daza, Nahum T. Smith, Phoebe Parrish, Troy McDiarmid, Jean-Benoît Lalanne, Beth Martin, **Diego Calderon**, Amira Ellison, Alice H. Berger, Jay Shendure, Lea M. Starita. BioRxiv. [[bioRiv](https://www.biorxiv.org/content/10.1101/2023.07.27.550902v1)][[pdf](2023.07.27.550902v1.full.pdf)]
+
++ Chromatin context-dependent regulation and epigenetic manipulation of prime editing. Li, Xiaoyi, Wei Chen, Beth K Martin,  **Diego Calderon**, Choli Lee, Junhong Choi, Florence M. Chardon, Troy McDiarmid, Haedong Kim, Jean-Benoît Lalanne, Jenny F. Nathans, Jay Shendure. BioRxiv. [[bioRiv](https://www.biorxiv.org/content/10.1101/2023.04.12.536587v1)][[pdf](2023.04.12.536587v1.full.pdf)]
 
 + Multiplex, single-cell CRISPRa screening for cell type specific regulatory elements. Chardon, Florence M.\*, Troy A. McDiarmid\*, Nicholas F. Page, Beth K. Martin, Silvia Domcke, Samuel G. Regalado, Jean-Benoît Lalanne, **Diego Calderon**, Lea M. Starita, Stephan J. Sanders, Nadav Ahituv, Jay Shendure. BioRxiv. [[bioRiv](https://www.biorxiv.org/content/10.1101/2023.03.28.534017v1)][[pdf](2023.03.28.534017v1.full.pdf)]
 
