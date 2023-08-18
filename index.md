@@ -20,7 +20,7 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 + Systematic reconstruction of cellular trajectories across mouse embryogenesis. Qiu, Chengxiang, Junyue Cao, Beth K. Martin, Tony Li, Ian Walsh, Sanjay Srivatsan, Xingfan Huang, **Diego Calderon**, William Stafford Noble, Christine M. Disteche, Stephen A. Murray, Malte Spielmann, Cecilia B. Moens, Cole Trapnell, Jay Shendure. Published in Nature Genetics. [[NCBI](https://pubmed.ncbi.nlm.nih.gov/35288709/)][[Journal Site](https://www.nature.com/articles/s41588-022-01018-x)][[pdf](s41588-022-01018-x.pdf)]
 
-+ *Trans*MPRA: A framework for assaying the role of many *trans*-acting factors at many enhancers. **Calderon, Diego**, Andria Ellis, Riza M. Daza, Beth Martin, Jacob M. Tome, Wei Chen, Florence M. Chardon, Anh Leith, Choli Lee, Beth Martin, Cole Trapnell, Jay Shendure. BioRxiv. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.30.321323v1)][[pdf](2020.09.30.321323v1.full.pdf)]
++ *Trans*MPRA: A framework for assaying the role of many *trans*-acting factors at many enhancers. **Calderon, Diego**, Andria Ellis, Riza M. Daza, Beth Martin, Jacob M. Tome, Wei Chen, Florence M. Chardon, Anh Leith, Choli Lee, Cole Trapnell, Jay Shendure. BioRxiv. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.30.321323v1)][[pdf](2020.09.30.321323v1.full.pdf)]
 
 + Ancient Rome: A genetic crossroads of Europe and the Mediterranean. Antonio ML\*, Gao Z\*, Moots HM\*, Lucci M, Candilio F, Sawyer S, Oberreiter V, **Calderon D**, Devitofranceschi K, Aikens RC, Aneli S, et al. Published in Science. [[NCBI](https://www.ncbi.nlm.nih.gov/pubmed/31699931)][[Journal site](https://science.sciencemag.org/content/366/6466/708.full)]
 
