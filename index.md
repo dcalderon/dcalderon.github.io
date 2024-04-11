@@ -8,9 +8,9 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 ## Preprints & Journal Publications
 
-+ A multiplex, prime editing framework for identifying drug resistance variants at scale. Florence M. Chardon, Chase C. Suiter, Riza M. Daza, Nahum T. Smith, Phoebe Parrish, Troy A. McDiarmid, Jean-Benoît Lalanne, Beth Martin, **Diego Calderon**, Amira Ellison, Alice H. Berger, Jay Shendure, Lea M. Starita. BioRxiv. [[bioRiv](https://www.biorxiv.org/content/10.1101/2023.07.27.550902v1)][[pdf](2023.07.27.550902v1.full.pdf)]
++ Chromatin context-dependent regulation and epigenetic manipulation of prime editing. Li, Xiaoyi, Wei Chen, Beth K Martin,  **Diego Calderon**, Choli Lee, Junhong Choi, Florence M. Chardon, Troy A. McDiarmid, Haedong Kim, Jean-Benoît Lalanne, Jenny F. Nathans, Jay Shendure. Published in Cell. [[NCBI](https://pubmed.ncbi.nlm.nih.gov/37090511/)][[Journal Site](https://www.cell.com/cell/fulltext/S0092-8674(24)00311-8)][[pdf](PIIS0092867424003118.pdf)]
 
-+ Chromatin context-dependent regulation and epigenetic manipulation of prime editing. Li, Xiaoyi, Wei Chen, Beth K Martin,  **Diego Calderon**, Choli Lee, Junhong Choi, Florence M. Chardon, Troy A. McDiarmid, Haedong Kim, Jean-Benoît Lalanne, Jenny F. Nathans, Jay Shendure. BioRxiv. [[bioRiv](https://www.biorxiv.org/content/10.1101/2023.04.12.536587v1)][[pdf](2023.04.12.536587v1.full.pdf)]
++ A multiplex, prime editing framework for identifying drug resistance variants at scale. Florence M. Chardon, Chase C. Suiter, Riza M. Daza, Nahum T. Smith, Phoebe Parrish, Troy A. McDiarmid, Jean-Benoît Lalanne, Beth Martin, **Diego Calderon**, Amira Ellison, Alice H. Berger, Jay Shendure, Lea M. Starita. BioRxiv. [[bioRiv](https://www.biorxiv.org/content/10.1101/2023.07.27.550902v1)][[pdf](2023.07.27.550902v1.full.pdf)]
 
 + Multiplex, single-cell CRISPRa screening for cell type specific regulatory elements. Chardon, Florence M.\*, Troy A. McDiarmid\*, Nicholas F. Page, Beth K. Martin, Silvia Domcke, Samuel G. Regalado, Jean-Benoît Lalanne, **Diego Calderon**, Lea M. Starita, Stephan J. Sanders, Nadav Ahituv, Jay Shendure. BioRxiv. [[bioRiv](https://www.biorxiv.org/content/10.1101/2023.03.28.534017v1)][[pdf](2023.03.28.534017v1.full.pdf)]
 
@@ -20,7 +20,7 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 + Systematic reconstruction of cellular trajectories across mouse embryogenesis. Qiu, Chengxiang, Junyue Cao, Beth K. Martin, Tony Li, Ian Walsh, Sanjay Srivatsan, Xingfan Huang, **Diego Calderon**, William Stafford Noble, Christine M. Disteche, Stephen A. Murray, Malte Spielmann, Cecilia B. Moens, Cole Trapnell, Jay Shendure. Published in Nature Genetics. [[NCBI](https://pubmed.ncbi.nlm.nih.gov/35288709/)][[Journal Site](https://www.nature.com/articles/s41588-022-01018-x)][[pdf](s41588-022-01018-x.pdf)]
 
-+ *Trans*MPRA: A framework for assaying the role of many *trans*-acting factors at many enhancers. **Calderon, Diego**, Andria Ellis, Riza M. Daza, Beth Martin, Jacob M. Tome, Wei Chen, Florence M. Chardon, Anh Leith, Choli Lee, Cole Trapnell, Jay Shendure. BioRxiv. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.30.321323v1)][[pdf](2020.09.30.321323v1.full.pdf)]
++ *Trans*MPRA: A framework for assaying the role of many *trans*-acting factors at many enhancers. **Calderon, Diego**, Andria Ellis, Riza M. Daza, Beth Martin, Jacob M. Tome, Wei Chen, Florence M. Chardon, Anh Leith, Choli Lee Cole Trapnell, Jay Shendure. BioRxiv. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.30.321323v1)][[pdf](2020.09.30.321323v1.full.pdf)]
 
 + Ancient Rome: A genetic crossroads of Europe and the Mediterranean. Antonio ML\*, Gao Z\*, Moots HM\*, Lucci M, Candilio F, Sawyer S, Oberreiter V, **Calderon D**, Devitofranceschi K, Aikens RC, Aneli S, et al. Published in Science. [[NCBI](https://www.ncbi.nlm.nih.gov/pubmed/31699931)][[Journal site](https://science.sciencemag.org/content/366/6466/708.full)]
 
