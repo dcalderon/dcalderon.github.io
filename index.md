@@ -4,17 +4,17 @@ I am a postdoctoral researcher working with Cole Trapnell and Jay Shendure at Un
 
 ## Research Interests
 
-I enjoy thinking about how DNA is translated into life. Specifically, I am interested in understanding gene regulation and the development of complex traits.
+I enjoy thinking about how DNA is translated into life. Specifically, I am interested in understanding gene regulation and complex traits.
 
 ## Preprints & Journal Publications
+
++ Multiplex profiling of developmental enhancers with quantitative, single-cell expression reporters. Lalanne, Jean-Benoît\*, Samuel G. Regalado\*, Silvia Domcke, **Diego Calderon**, Beth Martin, Tony Li, Chase C. Suiter, Choli Lee, Cole Trapnell, Jay Shendure. Published in Nature Methods. [[NCBI](https://pubmed.ncbi.nlm.nih.gov/38724692/)][[Journal Site](https://www.nature.com/articles/s41592-024-02260-3)][[pdf](s41592-024-02260-3.pdf)]
 
 + Chromatin context-dependent regulation and epigenetic manipulation of prime editing. Li, Xiaoyi, Wei Chen, Beth K Martin,  **Diego Calderon**, Choli Lee, Junhong Choi, Florence M. Chardon, Troy A. McDiarmid, Haedong Kim, Jean-Benoît Lalanne, Jenny F. Nathans, Jay Shendure. Published in Cell. [[NCBI](https://pubmed.ncbi.nlm.nih.gov/37090511/)][[Journal Site](https://www.cell.com/cell/fulltext/S0092-8674(24)00311-8)][[pdf](PIIS0092867424003118.pdf)]
 
 + A multiplex, prime editing framework for identifying drug resistance variants at scale. Florence M. Chardon, Chase C. Suiter, Riza M. Daza, Nahum T. Smith, Phoebe Parrish, Troy A. McDiarmid, Jean-Benoît Lalanne, Beth Martin, **Diego Calderon**, Amira Ellison, Alice H. Berger, Jay Shendure, Lea M. Starita. BioRxiv. [[bioRiv](https://www.biorxiv.org/content/10.1101/2023.07.27.550902v1)][[pdf](2023.07.27.550902v1.full.pdf)]
 
 + Multiplex, single-cell CRISPRa screening for cell type specific regulatory elements. Chardon, Florence M.\*, Troy A. McDiarmid\*, Nicholas F. Page, Beth K. Martin, Silvia Domcke, Samuel G. Regalado, Jean-Benoît Lalanne, **Diego Calderon**, Lea M. Starita, Stephan J. Sanders, Nadav Ahituv, Jay Shendure. BioRxiv. [[bioRiv](https://www.biorxiv.org/content/10.1101/2023.03.28.534017v1)][[pdf](2023.03.28.534017v1.full.pdf)]
-
-+ Multiplex profiling of developmental enhancers with quantitative, single-cell expression reporters. Lalanne, Jean-Benoît\*, Samuel G. Regalado\*, Silvia Domcke, **Diego Calderon**, Beth Martin, Tony Li, Chase C. Suiter, Choli Lee, Cole Trapnell, Jay Shendure. BioRxiv. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.12.10.519236v1)][[pdf](2022.12.10.519236v1.full.pdf)]
 
 + The continuum of Drosophila embryonic development at single-cell resolution. **Diego Calderon**\*, Ronnie Blecher-Gonen\*, Xingfan Huang\*, Stefano Secchia\*, James Kentro, Riza M. Daza, Beth Martin, Alessandro Dulja, Christoph Schaub, Cole Trapnell, Erica Larschan, Kate M. O’Connor-Giles, Eileen E. M. Furlong, Jay Shendure. Published in Science. [[NCBI](https://pubmed.ncbi.nlm.nih.gov/35926038/)][[Journal Site](https://www.science.org/doi/10.1126/science.abn5800)][[pdf](science.abn5800.pdf)]
 
