@@ -1,7 +1,10 @@
 ## About
 
-I am a postdoctoral researcher working with Cole Trapnell and Jay Shendure at University of Washington. Before that I received my Ph.D. from Stanford University, where I studied complex traits in the lab of Jonathan Pritchard. With my free time I like to dabble with watercolor painting, jog, and go hiking.
+I received my B.A. from Wesleyan University and subsequently conducted Ph.D. research on the genetics underlying complex traits at Stanford University. Intrigued by massively parallel molecular biology, I then went on to become a postdoctoral fellow at the University of Washington, where I led projects involving the computational analysis of large-scale single-cell data and developed new massively parallel reporter assays to investigate gene regulation. In 2024, I joined UCSF as an Assistant Professor in the Department of Bioengineering and Therapeutic Sciences.
 
+This website is not being actively maintained at the moment. For further updates see the [Calderon Lab web page](https://diego-calderon-lab.github.io).
+
+<!-- 
 ## Research Interests
 
 I enjoy thinking about how DNA is translated into life. Specifically, I am interested in understanding gene regulation and complex traits.
@@ -32,4 +35,4 @@ I enjoy thinking about how DNA is translated into life. Specifically, I am inter
 
 + The king cobra genome reveals dynamic gene evolution and adaptation in the snake venom system. Vonk, Freek J., Nicholas R. Casewell, Christiaan V. Henkel, Alysha M. Heimberg, Hans J. Jansen, Ryan JR McCleary, Harald ME Kerkkamp, **et al**. Published in Proceedings of the National Academy of Sciences. [[NCBI](https://www.ncbi.nlm.nih.gov/pubmed/24297900)][[Journal site](https://www.pnas.org/content/110/51/20651.long)]
 
-\* Indicates co-authorship.
+\* Indicates co-authorship. -->
